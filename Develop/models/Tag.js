@@ -26,4 +26,7 @@ Tag.init(
   }
 );
 
+// Define associations
+Tag.belongsToMany(Product, { through: 'product_tag', foreignKey: 'tag_id' });
+
 module.exports = Tag;
