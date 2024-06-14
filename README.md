@@ -3,14 +3,7 @@
 [The Result!](https://youtu.be/R-mspp6LJL4)
 
 ## Description TODO
-
 Create a backend system in which to store and manage employee data for a business.
-
-
-## Screenshot
-
-![screenshot](https://youtu.be/R-mspp6LJL4)
-
 
 ## Table of Contents
 
