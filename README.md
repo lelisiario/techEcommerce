@@ -1,6 +1,6 @@
 # E-commerce Back End Starter Code
 # TrackMyEmployee
-[The Result!](Develop\Assets\Module 13.mkv)
+[The Result!](/Develop/Assets/Module%2013.mkv)
 
 ## Description TODO
 
@@ -9,7 +9,7 @@ Create a backend system in which to store and manage employee data for a busines
 
 ## Screenshot
 
-![screenshot](Develop\Assets\Module 13.mkv)
+![screenshot](/Develop/Assets/Module%2013.mkv)
 
 
 ## Table of Contents
